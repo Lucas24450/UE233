@@ -1,0 +1,24 @@
+
+body {
+    background: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.encadrer{
+	display: flex;
+	width: 800px;
+	height: 377px;
+	flex-wrap: wrap;
+}
+
+.case {
+    display: inline-block;
+    height: 126px;
+    width: 223px;
+    margin: 0px;
+    border: solid 2px black;
+    background: #fff;
+}
